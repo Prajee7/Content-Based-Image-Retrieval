@@ -25,7 +25,7 @@ public class ImageBrowser extends JFrame {
     static Map<BufferedImage, Integer[]> map = new HashMap<BufferedImage, Integer[]>();
     // change the folderPath variable to the absolute path of the GUI Demo directory
     // in your system
-    static String folderPath = "/Users/ajayvegiraju/Documents/GUI Demo/images";
+    static String folderPath = "/Users/Documents/GUI Demo/images";
     static String outpuString = "output.txt";
 
     // 
